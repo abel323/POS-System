@@ -1,0 +1,16 @@
+D:\Visual Studio Project\POS System\POS System\bin\Debug\POS System.exe.config
+D:\Visual Studio Project\POS System\POS System\bin\Debug\POS System.exe
+D:\Visual Studio Project\POS System\POS System\bin\Debug\POS System.pdb
+D:\Visual Studio Project\POS System\POS System\bin\Debug\POS System.xml
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS System.vbprojAssemblyReference.cache
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmLogin.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.Resources.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS System.vbproj.GenerateResource.cache
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS System.exe
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS System.xml
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS System.pdb
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmAdminDashboard.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmCategory.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmSupplier.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmSales.resources
+D:\Visual Studio Project\POS System\POS System\obj\Debug\POS_System.frmReport.resources
